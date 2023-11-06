@@ -3,4 +3,3 @@ matplotlib
 pandas
 base64
 numpy
-yfinance
